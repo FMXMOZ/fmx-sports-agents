@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "react-table": "^7.6.3"
+  }
+}
